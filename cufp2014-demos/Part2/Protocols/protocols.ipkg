@@ -1,0 +1,4 @@
+package protocols
+
+opts = "-p effects --warnreach"
+modules = Effect.Msg, System.Protocol
